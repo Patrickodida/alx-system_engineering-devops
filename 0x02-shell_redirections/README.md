@@ -5,3 +5,4 @@
 3. Two files- > Display the content of /etc/passwd and /etc/hosts.
 4. Last lines- > Display the last 10 lines
 5. First lines- > Display the first 10 lines.
+6. Third line- > Write a script that displays the third line of the file iacta.

@@ -8,3 +8,4 @@
 6. Third line- > Write a script that displays the third line of the file iacta.
 7. File- > Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 8. cwd state- > Write a script that writes into the file.
+9. Duplicate last line- > Write a script that duplicates the last line of the file iacta.
